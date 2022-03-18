@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+}
+body {
+    background-color: aquamarine;
+}
+#lubi {
+    position: absolute;
+    width:500px;
+    height:300px;
+    top:70px;
+    left:41px;
+}
+#lubiWords {
+    position: relative;
+    top:300px;
+    left:41px;
+}
+#dagat {
+    position: absolute;
+    width:500px;
+    height:300px;
+    top:70px;
+    right:41px;
+}
+#dagatWords {
+    position: relative;
+    top:300px;
+    left:41px;
+}
+#pakaon {
+    position: absolute;
+    width:500px;
+    height:300px;
+    top:600px;
+    left:41px;
+}
+#pakaonWords {
+    position: relative;
+    top:300px;
+    left:41px;
+}
+#tourist {  
+    position: absolute;
+    width:500px;
+    height:300px;
+    top:600px;
+    right:41px;
+}
+#touristWords {
+    position: relative;
+    top:300px;
+    left:41px;
+}
